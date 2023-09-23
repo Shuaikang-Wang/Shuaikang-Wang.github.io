@@ -1,2 +1,1 @@
-# Shuaikang-Wang.github.io
-This is Shuaikang Wang's personal website.
+This is the source code to Jon Barron's public academic website: https://jonbarron.info/
